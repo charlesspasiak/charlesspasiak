@@ -35,6 +35,13 @@ Below are some of the key skills and technologies I have experience with:
 - Skill 4: Description of skill 4 and its relevance.
 - Skill 5: Description of skill 5 and its relevance.
 
+<p align="left">
+<a href="https://github.com/charlesspasiak">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=charlesspasiak&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=charlesspasiak&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 ## Contact
 
 I am open to collaborations and exciting opportunities in the JavaScript domain. If you would like to get in touch, you can reach me via:
